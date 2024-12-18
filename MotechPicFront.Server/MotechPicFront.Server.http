@@ -1,0 +1,6 @@
+@MotechPicFront.Server_HostAddress = http://localhost:5273
+
+GET {{MotechPicFront.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

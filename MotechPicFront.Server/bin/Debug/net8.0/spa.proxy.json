@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:58704",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\..\\motechpicfront.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

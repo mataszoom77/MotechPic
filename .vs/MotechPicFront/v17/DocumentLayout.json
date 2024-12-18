@@ -1,0 +1,1046 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\components\\admin\\adminpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\components\\admin\\adminpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\components\\auth\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\components\\auth\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\components\\auth\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\components\\auth\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\components\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\components\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\components\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\components\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\migrations\\motechpiccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\migrations\\motechpiccontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\data\\motechpiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\data\\motechpiccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\migrations\\20241217131915_fixforeignkeymappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\migrations\\20241217131915_fixforeignkeymappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\migrations\\20241217114013_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\migrations\\20241217114013_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\node_modules\\axios\\lib\\core\\Axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node_modules\\axios\\lib\\core\\Axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\migrations\\20241217131915_fixforeignkeymappings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\migrations\\20241217131915_fixforeignkeymappings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\controllers\\sparepartrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\controllers\\sparepartrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\migrations\\20241217114013_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\migrations\\20241217114013_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\controllers\\sparepartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\controllers\\sparepartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\controllers\\productrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\controllers\\productrequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\controllers\\clientsparepartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\controllers\\clientsparepartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\controllers\\clientproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\controllers\\clientproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\controllers\\adminclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\controllers\\adminclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\services\\sparepartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\services\\sparepartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\services\\sparepartrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\services\\sparepartrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\services\\productrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\services\\productrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\services\\isparepartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\services\\isparepartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\services\\isparepartrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\services\\isparepartrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\services\\iproductrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\services\\iproductrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\repositories\\sparepartrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\repositories\\sparepartrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\repositories\\sparepartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\repositories\\sparepartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\repositories\\productrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\repositories\\productrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\repositories\\isparepartrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\repositories\\isparepartrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\repositories\\isparepartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\repositories\\isparepartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\repositories\\iproductrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\repositories\\iproductrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\models\\sparepartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\models\\sparepartrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\models\\sparepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\models\\sparepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\models\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\models\\productrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3B295D6-207E-4228-A9DB-A7E142ECF3FB}|MotechPicFront.Server\\MotechPicFront.Server.csproj|solutionrelative:motechpicfront.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\components\\client\\productlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\components\\client\\productlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\components\\client\\sparepartlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\components\\client\\sparepartlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\components\\admin\\sparepartmanegement.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\components\\admin\\sparepartmanegement.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\components\\admin\\productmanagement.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\components\\admin\\productmanagement.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|c:\\users\\matas\\desktop\\motechpic\\motechpicfront\\motechpicfront.client\\src\\components\\client\\requestform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56F91971-7E7E-4282-A99A-49DDC884C271}|motechpicfront.client\\motechpicfront.client.esproj|solutionrelative:motechpicfront.client\\src\\components\\client\\requestform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\packages\\Npm.3.5.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Npm.3.5.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Auth\\Login.jsx",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\Components\\Auth\\Login.jsx",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Auth\\Login.jsx",
+              "RelativeToolTip": "motechpicfront.client\\src\\Components\\Auth\\Login.jsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-17T19:05:31.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.css",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Auth\\Login.css",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\Components\\Auth\\Login.css",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Auth\\Login.css",
+              "RelativeToolTip": "motechpicfront.client\\src\\Components\\Auth\\Login.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-17T23:58:34.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Homepage.css",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Homepage.css",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\Components\\Homepage.css",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Homepage.css",
+              "RelativeToolTip": "motechpicfront.client\\src\\Components\\Homepage.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKMBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-17T19:23:36.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminPage.jsx",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Admin\\AdminPage.jsx",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\Components\\Admin\\AdminPage.jsx",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Admin\\AdminPage.jsx",
+              "RelativeToolTip": "motechpicfront.client\\src\\Components\\Admin\\AdminPage.jsx",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAcwBcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-18T00:23:20.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Program.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Program.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAiwH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:20:09.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Homepage.jsx",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Homepage.jsx",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\Components\\Homepage.jsx",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Homepage.jsx",
+              "RelativeToolTip": "motechpicfront.client\\src\\Components\\Homepage.jsx",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwDMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-17T19:14:26.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MotechPicFront.Server\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T19:54:02.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\App.jsx",
+              "RelativeToolTip": "motechpicfront.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-17T19:07:55.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241217131915_FixForeignKeyMappings.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Migrations\\20241217131915_FixForeignKeyMappings.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Migrations\\20241217131915_FixForeignKeyMappings.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Migrations\\20241217131915_FixForeignKeyMappings.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Migrations\\20241217131915_FixForeignKeyMappings.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:28:49.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:26:33.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MotechPicContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Migrations\\MotechPicContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Migrations\\MotechPicContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Migrations\\MotechPicContextModelSnapshot.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Migrations\\MotechPicContextModelSnapshot.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAgwAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:28:53.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MotechPicContext.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Data\\MotechPicContext.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Data\\MotechPicContext.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Data\\MotechPicContext.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Data\\MotechPicContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:27:21.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\appsettings.json",
+              "RelativeToolTip": "MotechPicFront.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T19:53:32.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241217114013_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Migrations\\20241217114013_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Migrations\\20241217114013_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Migrations\\20241217114013_InitialCreate.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Migrations\\20241217114013_InitialCreate.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:28:13.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\main.jsx",
+              "RelativeToolTip": "motechpicfront.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-17T19:15:32.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SparePartRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\SparePartRequestController.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Controllers\\SparePartRequestController.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\SparePartRequestController.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Controllers\\SparePartRequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:26:47.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\index.css",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\index.css",
+              "RelativeToolTip": "motechpicfront.client\\src\\index.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-17T20:06:23.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\index.html",
+              "RelativeDocumentMoniker": "motechpicfront.client\\index.html",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\index.html",
+              "RelativeToolTip": "motechpicfront.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-17T18:56:49.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Axios.js",
+              "DocumentMoniker": "c:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\node_modules\\axios\\lib\\core\\Axios.js",
+              "RelativeDocumentMoniker": "node_modules\\axios\\lib\\core\\Axios.js",
+              "ToolTip": "c:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\node_modules\\axios\\lib\\core\\Axios.js",
+              "RelativeToolTip": "node_modules\\axios\\lib\\core\\Axios.js",
+              "ViewState": "AgIAACkAAAAAAAAAAAArwDwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-17T21:25:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241217131915_FixForeignKeyMappings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Migrations\\20241217131915_FixForeignKeyMappings.Designer.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Migrations\\20241217131915_FixForeignKeyMappings.Designer.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Migrations\\20241217131915_FixForeignKeyMappings.Designer.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Migrations\\20241217131915_FixForeignKeyMappings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:54:54.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241217114013_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Migrations\\20241217114013_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Migrations\\20241217114013_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Migrations\\20241217114013_InitialCreate.Designer.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Migrations\\20241217114013_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:54:19.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SparePartController.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\SparePartController.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Controllers\\SparePartController.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\SparePartController.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Controllers\\SparePartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:26:43.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\IClientService.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Services\\IClientService.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\IClientService.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Services\\IClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:33:19.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductRequestController.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\ProductRequestController.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Controllers\\ProductRequestController.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\ProductRequestController.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Controllers\\ProductRequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:26:39.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClientSparePartController.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\ClientSparePartController.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Controllers\\ClientSparePartController.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\ClientSparePartController.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Controllers\\ClientSparePartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:26:27.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClientProductController.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\ClientProductController.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Controllers\\ClientProductController.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\ClientProductController.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Controllers\\ClientProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:26:19.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:26:14.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminClientController.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\AdminClientController.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Controllers\\AdminClientController.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\AdminClientController.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Controllers\\AdminClientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:26:07.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\ClientService.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Services\\ClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:33:05.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\TokenService.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:34:47.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SparePartService.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\SparePartService.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Services\\SparePartService.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\SparePartService.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Services\\SparePartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:34:33.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SparePartRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\SparePartRequestService.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Services\\SparePartRequestService.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\SparePartRequestService.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Services\\SparePartRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:34:23.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\ProductService.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:34:09.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\ProductRequestService.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Services\\ProductRequestService.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\ProductRequestService.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Services\\ProductRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:33:59.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ISparePartService.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\ISparePartService.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Services\\ISparePartService.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\ISparePartService.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Services\\ISparePartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:33:50.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ISparePartRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\ISparePartRequestService.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Services\\ISparePartRequestService.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\ISparePartRequestService.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Services\\ISparePartRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:33:44.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\IProductService.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:33:36.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IProductRequestService.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\IProductRequestService.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Services\\IProductRequestService.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Services\\IProductRequestService.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Services\\IProductRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:33:28.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\ProductRequestRepository.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Repositories\\ProductRequestRepository.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\ProductRequestRepository.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Repositories\\ProductRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:31:59.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SparePartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\SparePartRepository.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Repositories\\SparePartRepository.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\SparePartRepository.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Repositories\\SparePartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:32:13.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SparePartRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\SparePartRequestRepository.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Repositories\\SparePartRequestRepository.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\SparePartRequestRepository.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Repositories\\SparePartRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:32:27.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:31:43.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ISparePartRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\ISparePartRequestRepository.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Repositories\\ISparePartRequestRepository.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\ISparePartRequestRepository.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Repositories\\ISparePartRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:31:33.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ISparePartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\ISparePartRepository.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Repositories\\ISparePartRepository.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\ISparePartRepository.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Repositories\\ISparePartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:31:20.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IProductRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\IProductRequestRepository.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Repositories\\IProductRequestRepository.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\IProductRequestRepository.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Repositories\\IProductRequestRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:31:11.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:31:00.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Repositories\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:30:32.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Repositories\\ClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:30:25.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "SparePartRequest.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Models\\SparePartRequest.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Models\\SparePartRequest.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Models\\SparePartRequest.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Models\\SparePartRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:30:05.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SparePart.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Models\\SparePart.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Models\\SparePart.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Models\\SparePart.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Models\\SparePart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:29:57.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Models\\ProductRequest.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Models\\ProductRequest.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Models\\ProductRequest.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Models\\ProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:29:48.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Models\\Product.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:29:42.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Models\\Client.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:29:32.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Models\\Admin.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:29:23.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:25:12.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MotechPicFront.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\MotechPicFront.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "MotechPicFront.Server\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T19:24:27.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ProductList.jsx",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Client\\ProductList.jsx",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\Components\\Client\\ProductList.jsx",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Client\\ProductList.jsx",
+              "RelativeToolTip": "motechpicfront.client\\src\\Components\\Client\\ProductList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-17T19:04:35.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SparePartManegement.jsx",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Admin\\SparePartManegement.jsx",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\Components\\Admin\\SparePartManegement.jsx",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Admin\\SparePartManegement.jsx",
+              "RelativeToolTip": "motechpicfront.client\\src\\Components\\Admin\\SparePartManegement.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-17T19:04:08.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SparePartList.jsx",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Client\\SparePartList.jsx",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\Components\\Client\\SparePartList.jsx",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Client\\SparePartList.jsx",
+              "RelativeToolTip": "motechpicfront.client\\src\\Components\\Client\\SparePartList.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-17T19:07:33.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProductManagement.jsx",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Admin\\ProductManagement.jsx",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\Components\\Admin\\ProductManagement.jsx",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Admin\\ProductManagement.jsx",
+              "RelativeToolTip": "motechpicfront.client\\src\\Components\\Admin\\ProductManagement.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-17T19:03:51.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\services\\api.js",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\services\\api.js",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\services\\api.js",
+              "RelativeToolTip": "motechpicfront.client\\src\\services\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-17T19:01:32.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "RequestForm.jsx",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Client\\RequestForm.jsx",
+              "RelativeDocumentMoniker": "motechpicfront.client\\src\\Components\\Client\\RequestForm.jsx",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\motechpicfront.client\\src\\Components\\Client\\RequestForm.jsx",
+              "RelativeToolTip": "motechpicfront.client\\src\\Components\\Client\\RequestForm.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-17T19:05:08.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\packages\\Npm.3.5.2\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\Npm.3.5.2\\readme.txt",
+              "ToolTip": "C:\\Users\\matas\\Desktop\\MotechPic\\MotechPicFront\\packages\\Npm.3.5.2\\readme.txt",
+              "RelativeToolTip": "packages\\Npm.3.5.2\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-17T18:54:05.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
